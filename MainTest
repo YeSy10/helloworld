@@ -1,0 +1,16 @@
+
+/**
+ * @author xuqin   
+ * @date 2017年2月6日 上午10:51:12 
+ */
+public class MainTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		System.out.println("hello world");
+
+	}
+
+}
